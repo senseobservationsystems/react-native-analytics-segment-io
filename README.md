@@ -1,3 +1,8 @@
+This is not used anymore by <a href="https://github.com/senseobservationsystems/goalie-2-mobile-app">goalie-2-mobile-app</a> since https://github.com/senseobservationsystems/goalie-2-mobile-app/pull/5715.
+
+---
+
+
 [![npm](https://img.shields.io/npm/v/react-native-analytics-segment-io.svg)](https://www.npmjs.com/package/react-native-analytics-segment-io)
 [![travis](https://img.shields.io/travis/leoilab/react-native-analytics-segment-io/master.svg)](https://travis-ci.org/leoilab/react-native-analytics-segment-io)
 
